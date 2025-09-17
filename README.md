@@ -29,7 +29,15 @@ It includes task-wise explanation, Power BI dashboard files, and insights genera
 - Prepared a video presentation summarizing insights.  
 - Linked findings with leadership goals:  
   - **CEO** → Inventory planning, seasonal demand strategy, high-value customer retention  
-  - **CMO** → Targeted marketing, loyalty programs, exploring new markets  
+  - **CMO** → Targeted marketing, loyalty programs, exploring new markets
+ 
+  - ### 📷 Dashboard Visuals
+
+![Revenue Trend](./Screenshots/Revenue_Trend.png)  
+![Top Countries](./Screenshots/Top_Countries.png)  
+![Top Customers](./Screenshots/Top_Customers.png)  
+![Geographic Spread](./Screenshots/Geographic_Spread.png)
+
 
 ---
 
