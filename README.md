@@ -42,6 +42,6 @@ It includes task-wise explanation, Power BI dashboard files, and insights genera
 ---
 
 ## 🛠️ Tools & Skills
-- Power BI (Data modeling, DAX, Dashboard design)  
+- Power BI (DAX, Dashboard design)  
 - Business storytelling with data  
 - Data cleaning & visualization 
